@@ -9,7 +9,9 @@ This is my first JS script that is longer than a couple lines. **In few words: t
 + work out some trigonometry,
 + effectively use Math functions like Modulo or Atan2. 
 
-This is my first ever GitHub Repository. I am using this Repo to learn how to develop alongside GitHub. Later, I want to learn `GIT` itself on my PC command line, to ensure I understand everything. Because I was a beginner, Much of this code is **VERY** unoptimized, but, I think collapsing this simple code might make it unnecessarily hard to read. Further, a project so small won't really get any noticable benefits from optimization. So, I am leaving it as-is, with a few comments from my future self about the apparent flaws. speaking of which:
+This is my first ever GitHub Repository. I am using this Repo to learn how to develop alongside GitHub. Later, I want to learn `GIT` itself on my PC command line, to ensure I understand everything. 
+
+Because I was a beginner, Much of this code is **VERY** unoptimized, but, I think collapsing this simple code might make it unnecessarily hard to read. Further, a project so small won't really get any noticable benefits from optimization. So, I am leaving it as-is, with a few comments from my future self about the apparent flaws. speaking of which:
  
  
  
