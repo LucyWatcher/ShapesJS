@@ -9,7 +9,7 @@ This is my first JS script that is longer than a couple lines. **In few words: t
 + work out some trigonometry,
 + effectively use Math functions like Modulo or Atan2. 
 
-***You can see this script as a webpage via GitHub Pages <a href="https://lucywatcher.github.io/ShapesJS/" target="_blank">HERE!</a>.*** 
+***You can see this script as a webpage via GitHub Pages <a href="https://lucywatcher.github.io/ShapesJS/">HERE!</a>.*** 
 
 Eventually, this code will be hosted on a page of my portfolio website, and you will be able to run it there as well.
 
