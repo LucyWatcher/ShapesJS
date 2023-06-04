@@ -9,7 +9,7 @@ This is my first JS script that is longer than a couple lines. **In few words: t
 + work out some trigonometry,
 + effectively use Math functions like Modulo or Atan2. 
 
-Of course, for now, you can run it by downloading `circlegrid.js` and `jscirclegrid.html` to a folder on your computer, and opening the HTML document. Eventually, this code will be hosted on a page of my portfolio website, and you will be able to run it there.
+You can see this script as a webpage via GitHub Pages [here](https://lucywatcher.github.io/ShapesJS/). Eventually, this code will be hosted on a page of my portfolio website, and you will be able to run it there as well.
 
 <p align="center">
   <img alt="A preview image of ShapesJS" src="./shapesJS.jpeg" width="500px">
